@@ -1,5 +1,13 @@
 # Document-Management
 A java swing made application for document management.
+###### Features
+1.	Search by user/document
+2.	Show recent notices
+3.	Profile creation
+4.	Interactive UI
+5.	View submitted documents
+6.	Calculating h-index,impact factor
+
 
 # Here are some screenshots
 <details>
