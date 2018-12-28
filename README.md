@@ -23,7 +23,7 @@ A java swing made application for document management.
   * in documentManagement\src\database\Dbconnection.java change the code at line number 17 and 25 according to the configuration in your pc
   * in documentManagement\src\GUI\DashboardGUI.java change the path in line 143 to any valid path in your system. This is the default path
   * in documentManagement\src\database\DatabaseUpdateValues.java change the path at line number 57 to any path where you want the added documents to end up.
-* If uploading anywhere do credits to this repo.
+* If uploading anywhere do credit this repo.
 
 
 # Contributions
