@@ -25,14 +25,15 @@ A java application for document management **made using Java Swing in eclipse** 
   </p>
 </details>
 
-# Forking this repo:
-* You are free to fork this repository and use it as you please
+# Using this repo:
+* You are free to fork or clone this repository and use it as you please.
+  * To run, run the jar file documentManagement\Builds\Runnable.jar 
 * Here are some things to take in mind after forking:
   * in documentManagement\src\database\Dbconnection.java change the code at line number 17 and 25 according to the configuration in your pc
   * in documentManagement\src\GUI\DashboardGUI.java change the path in line 143 to any valid path in your system. This is the default path
   * in documentManagement\src\database\DatabaseUpdateValues.java change the path at line number 57 to any path where you want the added documents to end up.
-* If uploading anywhere do credit this repo.
-* To run, run the jar file documentManagement\Builds\Runnable.jar 
+* If uploading anywhere do credit the link back to this repo.
+
 
 
 # Contributions
