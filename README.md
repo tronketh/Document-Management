@@ -1,5 +1,5 @@
 # Document-Management
-A java swing made application for document management.
+A java application for document management **made using Java Swing in eclipse** .
 ###### Features
 1.	Search by user/document
 2.	Show recent notices
@@ -32,6 +32,7 @@ A java swing made application for document management.
   * in documentManagement\src\GUI\DashboardGUI.java change the path in line 143 to any valid path in your system. This is the default path
   * in documentManagement\src\database\DatabaseUpdateValues.java change the path at line number 57 to any path where you want the added documents to end up.
 * If uploading anywhere do credit this repo.
+* To run, run the jar file documentManagement\Builds\Runnable.jar 
 
 
 # Contributions
