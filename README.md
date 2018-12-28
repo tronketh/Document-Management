@@ -17,6 +17,6 @@ A java swing made application for document management.
           ![Image7](https://github.com/tronketh/Document-Management/blob/master/screenshot/i7.jpg?raw=true "Image7")
 
 # Forking this repo:
-- You are free to fork this repository and use it as you please
-- Here are some things to take in mind after forking:
-- -2
+* You are free to fork this repository and use it as you please
+* Here are some things to take in mind after forking:
+          *2
