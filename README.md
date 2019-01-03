@@ -37,7 +37,7 @@ A java application for document management **made using Java Swing in eclipse** 
 
 
 # Contributions
-* Sivakethan Suddapalli: Adding Swing GUI functionality and making dome GUI component classes, Some of backend database classes, Reorganising code
-* Shivam Jain: Backend Classes
-* Shubham Samdani: Testing and Debugging
-* Gaurav SS: Software Design and GUI concept
+* Sivakethan Suddapalli
+* Shivam Jain
+* Shubham Samdani
+* Gaurav SS
