@@ -34,10 +34,3 @@ A java application for document management **made using Java Swing in eclipse** 
   * in documentManagement\src\database\DatabaseUpdateValues.java change the path at line number 57 to any path where you want the added documents to end up.
 * If uploading anywhere do credit the link back to this repo.
 
-
-
-# Contributions
-* Sivakethan Suddapalli
-* Shivam Jain
-* Shubham Samdani
-* Gaurav SS
